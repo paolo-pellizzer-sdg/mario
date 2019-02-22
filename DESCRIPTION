@@ -1,0 +1,10 @@
+Package: mario
+Type: Package
+Title: Fa Le Somme
+Version: 0.1.0
+Author: Paolo Pellizzer
+Maintainer: Paolo Pellizzer <paolo.pellizzer@sdggroup.com>
+Description: Questo package ha l'obiettivo di fare somme
+License: GPL
+Encoding: UTF-8
+LazyData: true
